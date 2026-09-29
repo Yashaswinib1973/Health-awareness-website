@@ -1,0 +1,109 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0fff8;
+    color: #333;
+}
+
+
+/* Header */
+
+header {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+/* Navigation */
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+
+/* Sections */
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+
+/* Headings */
+
+h2 {
+    color: green;
+}
+
+
+/* Image */
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+
+/* Lists */
+
+li {
+    margin: 8px;
+}
+
+
+/* Form */
+
+form {
+    width: 300px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+
+/* Button */
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+
+/* Footer */
+
+footer {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+```
